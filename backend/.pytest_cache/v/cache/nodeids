@@ -1,0 +1,13 @@
+[
+  "tests/test_auth.py::test_acesso_sem_token",
+  "tests/test_auth.py::test_cadastro_cliente",
+  "tests/test_auth.py::test_cadastro_email_duplicado",
+  "tests/test_auth.py::test_login_credenciais_invalidas",
+  "tests/test_auth.py::test_login_sucesso",
+  "tests/test_encomendas.py::test_acesso_indevido_encomenda_de_outro_cliente",
+  "tests/test_encomendas.py::test_criar_encomenda",
+  "tests/test_encomendas.py::test_criar_mensagem_ao_detectar_nova_movimentacao",
+  "tests/test_encomendas.py::test_listar_encomendas",
+  "tests/test_encomendas.py::test_novas_movimentacoes_nao_duplicam",
+  "tests/test_encomendas.py::test_remover_encomenda"
+]
